@@ -1,0 +1,76 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  width: 100%;
+  min-height: 100vh;
+  padding: 20px;
+  box-sizing: border-box;
+}
+
+.main-container {
+  display: flex;
+  width: 100%;
+}
+
+.leftColumn {
+  width: 50%;
+  padding-right: 50px;
+}
+
+.rightColumn {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  font-size: medium;
+  visibility: visible;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.rightColumn ul {
+  list-style-type: none; /* Remove bullet points */
+  padding: 0; /* Remove default padding */
+}
+
+.rightColumn li {
+  font-size: 1.2em; /* Make the font size bigger */
+  margin-bottom: 10px; /* Add some space between list items */
+}
+
+.rightColumn p strong {
+  font-weight: bold; /* Make the title bold */
+}
+
+.recommended-problems h2,
+.recommended-problems ul {
+  font-family: 'Source Sans Pro', sans-serif; /* Apply the font to the recommended problems */
+  font-size: medium;
+}
+
+.recommended-problems h2,
+.recommended-problems ul {
+  font-family: 'Source Sans Pro', sans-serif; /* Apply the font to the recommended problems */
+  font-size: medium;
+}
+
+.rightColumn h2 {
+  font-size: 1.5em; /* Make the font size bigger */
+}
+
+.rightColumn li {
+  font-size: 1.4em; /* Make the font size bigger */
+}
+
+.rightColumn p strong {
+  font-weight: bold; /* Make the title bold */
+}
+
+.credit {
+  position: absolute;
+  bottom: -0px;
+  right: 10px;
+  font-size: 14px;
+  color: black;
+  font-family: 'Source Sans Pro', sans-serif;
+
+}

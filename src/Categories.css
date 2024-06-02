@@ -1,0 +1,23 @@
+.categories-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 10px;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.category {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  padding: 10px;
+  border-radius: 5px;
+  width: 100%;
+  cursor: pointer;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: large;
+}
+
+.category:hover {
+  background-color: #e9e9e9;
+}

@@ -1,0 +1,366 @@
+[
+  {
+    "name": "countNumbers",
+    "topic": "Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section1/#2-countnumbers-countcpp"
+  },
+  {
+    "name": "Debugging Deduplicating",
+    "topic": "Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section1/#3-debugging-deduplicating-deduplicatecpp"
+  },
+  {
+    "name": "Grid Basics",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section1/#4-grid-basics-gridcpp"
+  },
+  {
+    "name": "Average Neighborhood",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section1/#5-average-neighborhood"
+  },
+
+  {
+    "name": "Friends",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section2/#2-friends-friendlistcpp"
+  },
+  {
+    "name": "Count Escape Routes",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/section2/#3-count-escape-routes-escapecpp"
+  },
+  {
+    "name": "Random Shuffling",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/section2/#4-random-shuffling-shufflecpp"
+  },
+
+  {
+    "name": "Big O, basics",
+    "topic": "Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section3/#1-big-o-basics"
+  },
+  {
+    "name": "Big O, Recursive Functions",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/section3/#2-big-o-recursive-functions"
+  },
+  {
+    "name": "Win some, lose sum",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/section3/#3-win-some-lose-sum-sumcpp"
+  },
+  {
+    "name": "Shrink Words",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/section3/#4-shrink-words-shrinkcpp"
+  },
+
+  {
+    "name": "Circle of Life",
+    "topic": "Classes",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section4/#1-circle-of-life-circlehcpp"
+  },
+  {
+    "name": "The Notorious RBQ",
+    "topic": "Classes",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/section4/#2-the-notorious-rbq-ringbufferqueuehcpp"
+  },
+
+  {
+    "name": "Some Pointers on Cats",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section5/#1-some-pointers-on-cats"
+  },
+  {
+    "name": "All out of Sorts",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section5/#3-all-out-of-sorts-sortedcpp"
+  },
+  {
+    "name": "Braiding a Linked List",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section5/#4-braiding-a-linked-list-braidcpp"
+  },
+
+  {
+    "name": "Count Left Nodes",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section6/#2-count-left-nodes-countleftcpp"
+  },
+  {
+    "name": "Find Your True Balance",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section6/#3-find-your-true-balance-balancedcpp"
+  },
+  {
+    "name": "Give 'Em The Axe",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section6/#4-give-em-the-axe-prunecpp"
+  },
+
+  {
+    "name": "Decode Text",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section7/#1-decode-text-ternarycpp"
+  },
+  {
+    "name": "Print All Paths",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section7/#2-print-all-paths-ternarycpp"
+  },
+  {
+    "name": "Palindromic Trees",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/section7/#3-trees-treescpp"
+  },
+
+  {
+    "name": "References Available Upon Request",
+    "topic": "Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#1-references-available-upon-request"
+  },
+  {
+    "name": "Pig-Latin",
+    "topic":"Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#2-pig-latin"
+  },
+  {
+    "name": "Mirror",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#1-mirror"
+  },
+  {
+    "name": "Check Balance",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#2-check-balance"
+  },
+  {
+    "name": "Collection Mystery",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#3-collection-mystery"
+  },
+  {
+    "name": "Twice",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#4-twice"
+  },
+  {
+    "name": "Reversing a Map",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#5-reversing-a-map"
+  },
+  {
+    "name": "Stack vs Vector Showdown",
+    "topic": "ADTs",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#6-stack-vs-vector-showdown"
+  },
+  {
+    "name": "Oh No, Big-O, Too Slow",
+    "topic":"Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#1-oh-no-big-o-too-slow"
+  },
+  {
+    "name": "More Big-O",
+    "topic": "Programming in C++ and Big-O",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#2-more-big-o"
+  },
+  {
+    "name": "Sum of Squares",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#4-sum-of-squares"
+  },
+  {
+    "name": "Zig Zag",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#5-zig-zag"
+  },
+  {
+    "name": "Double Stack",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#6-double-stack"
+  },
+  {
+    "name": "String Subsequences",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#7-string-subsequences"
+  },
+  {
+    "name": "Recursion and Time Complexity and Exponents, (Big-)O My",
+    "topic": "Recursion",
+    "prior_probability": 6,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#8-recursion-and-time-complexity-and-exponents-big-o-my"
+  },
+  {
+    "name": "Longest Common Subsequence",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#1-longest-common-subsequence"
+  },
+  {
+    "name": "Domino Tiling",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#2-domino-tiling"
+  },
+  {
+    "name": "Cracking Passwords",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#3-cracking-passwords"
+  },
+  {
+    "name": "Change We Can Believe In",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#4-change-we-can-believe-in"
+  },
+  {
+    "name": "Weights and Balances",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra1/#5-weights-and-balances"
+  },
+
+
+  {
+    "name": "Recursive Enumeration and Backtracking",
+    "topic": "Backtracking",
+    "prior_probability": 9,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#3-recursive-enumeration-and-backtracking"
+  },
+  {
+    "name": "Tracing Pointers by Reference",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#1-tracing-pointers-by-reference"
+  },
+  {
+    "name": "Inserting into a Linked List",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#2-inserting-into-a-linked-list"
+  },
+  {
+    "name": "Remove All Threshold",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#3-remove-all-threshold-thresholdcpp"
+  },
+  {
+    "name": "Double List",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#4-double-list"
+  },
+  {
+    "name": "Rewiring Linked Lists",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#5-rewiring-linked-lists"
+  },
+  {
+    "name": "Linked List Mechanics",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#6-linked-list-mechanics"
+  },
+  {
+    "name": "Kth-to-Last Element in Linked List",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#7-linked-lists"
+  },
+  {
+    "name": "Sorting a Linked List",
+    "topic": "Linked Lists",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#9-sorting"
+  },
+  {
+    "name": "The Notorious RBQ, Revisited",
+    "topic": "Classes",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#1-the-notorious-rbq-revisited"
+  },
+  {
+    "name": "Dynamic Arrays and Classes",
+    "topic": "Classes",
+    "prior_probability": 1,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#2-dynamic-arrays-and-classes"
+  },
+  {
+    "name": "How Tall is That Tree?",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#1-how-tall-is-that-tree"
+  },
+  {
+    "name": "The Ultimate and Penultimate Values",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#2-the-ultimate-and-penultimate-values"
+  },
+  {
+    "name": "Checking BST Validity",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#3-checking-bst-validity"
+  },
+  {
+    "name": "Binary Search Tree Warmup",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#4-binary-search-tree-warmup"
+  },
+  {
+    "name": "Tree-Quality",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#5-tree-quality"
+  },
+  {
+    "name": "Binary Tree Insertion",
+    "topic": "Trees",
+    "prior_probability": 3,
+    "link": "https://web.stanford.edu/class/cs106b/section/extra2/#6-binary-tree-insertion"
+  }
+]
+
